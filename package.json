@@ -9,6 +9,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
-  }
+    "express": "^5.1.0",
+    "node": "^22.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APOORVAVERMAA/Backend_cloudC.git"
+  },
+  "bugs": {
+    "url": "https://github.com/APOORVAVERMAA/Backend_cloudC/issues"
+  },
+  "homepage": "https://github.com/APOORVAVERMAA/Backend_cloudC#readme"
 }
